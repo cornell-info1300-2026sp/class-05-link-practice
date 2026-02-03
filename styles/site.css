@@ -1,0 +1,27 @@
+
+body {
+    background-color: #99c9a5;
+    color: #0d0d0d;
+    font-family: serif;
+}
+
+h1, h2 {
+    font-family: sans-serif;
+}
+
+h1 {
+    border: 5px solid #0d0d0d;
+    border-radius: 8px;
+}
+
+blockquote {    
+    font-style: italic;
+    border-left: 4px solid #0d0d0d;
+}
+
+/* Center text utility class */
+.text-center {
+    text-align: center;
+}
+
+
