@@ -18,6 +18,8 @@ Start the web server by clicking "Go Live" in the bottom right-hand corner.
 
 - Add a navigation menu that links the 2 pages together
 
+- Add a link to an external site (ex. https://www.rosamondgiffordzoo.org/  )
+
 ## Coding Resources
 
 - [MND \<a\> tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/a)
