@@ -48,6 +48,7 @@
         "files.trimTrailingWhitespace": true,
         "fiveServer.openTerminal": false,
         "git.autofetch": true,
+        "chat.agent.enabled": false,
         "github.copilot.editor.enableAutoCompletions": false,
         "github.copilot.enable": {
           "*": false
