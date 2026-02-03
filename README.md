@@ -1,10 +1,10 @@
 # INFO 1300 (SP26) - Activity - Link Practice
 
-In this activity we will practice adding a nav links to a project.
+In this activity we will practice adding links to a project.
 
 This is a practice activity - not for credit. Feel free to expand as inspired.
 
-Open this repository as a Codespace on GitHub.
+Open this repository as a Codespace on GitHub.<br>
 Start the web server by clicking "Go Live" in the bottom right-hand corner.
 
 ## Instructions 
